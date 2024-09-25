@@ -4,7 +4,7 @@ It is a web application that allows users to view a list of profiles and interac
 
 # How to run the project ?
 
-- Clone the repository by git clone https://github.com/theshubh09/ProfileGO.git
+- Clone the repository by git clone https://github.com/anantbondre/JobOcean.git
 - Navigate to project directory with cd project-atlas
 - Split the terminal and type cd backend on one terminal and cd frontend on other terminal.
 - On backend terminal :
